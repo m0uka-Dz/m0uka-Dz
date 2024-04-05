@@ -20,7 +20,7 @@
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/discord.svg" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCCKjAGZqG2vuTtuPzYBlroA">
+<a href="https://www.youtube.com/@mouka0x">
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg" />
 </a>
 
