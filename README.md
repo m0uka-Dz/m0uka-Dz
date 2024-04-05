@@ -1,6 +1,6 @@
 <div align='center'>
 
-<h2><samp><strong>Hey, I'm Mouka!</strong> 👋:thought_balloon: </samp></h2>
+<h2><samp><strong>Hey, I'm Mouka!</strong> 👋 :thought_balloon: </samp></h2>
 <p><samp>Security Researcher hunting on <a href="https://bugcrowd.com/mouka">Bugcrowd</a> and <a href="https://hackerone.com/mouka0x">HackerOne</a></samp></p>
 <br>
 
