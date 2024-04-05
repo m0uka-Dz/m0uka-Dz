@@ -31,4 +31,8 @@
 <a href="https://hackerone.com/mouka0x">
   <img width="45px" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg"/>
 </a>
+
+<a href="https://hackerone.com/mouka0x">
+  <img width="45px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/telegram-512.png"/>
+</a>
 </div>
