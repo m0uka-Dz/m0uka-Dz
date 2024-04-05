@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align='center'>
 
-<!--
-**mouka0x/mouka0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2><samp><strong>Hey, I'm Mouka!</strong> 👋 </samp></h2>
+<p><samp>Security Researcher hunting on <a href="https://bugcrowd.com/mouka">Bugcrowd</a> and <a href="https://hackerone.com/mouka0x?type=user">HackerOne</a></samp></p>
+<br>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/mouka0x">
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/mouka/">
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+
+<a href="https://medium.com/@mouka">
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
+</a>
+
+<a href="https://discord.com/users/mouka0x">
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/discord.svg" />
+</a>
+
+<a href="https://www.youtube.com/channel/UCCKjAGZqG2vuTtuPzYBlroA">
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg" />
+</a>
+
+</div>
