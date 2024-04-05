@@ -29,10 +29,10 @@
 </a>
 
 <a href="https://hackerone.com/mouka0x">
-  <img width="45px" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg"/>
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/hackerone.svg"/>
 </a>
 
 <a href="https://t.me/lllll8">
-  <img width="45px" src="https://www.svgrepo.com/show/125420/telegram.svg"/>
+  <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/telegram.svg"/>
 </a>
 </div>
