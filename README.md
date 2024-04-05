@@ -24,7 +24,7 @@
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg" />
 </a>
 
-<a href="https://www.bugcrowd.com/mouka">
+<a href="https://t.me/lllll8">
   <img width="45px" src="https://asset.brandfetch.io/id0N7jz8eS/idp8g-Gs8N.jpeg?updated=1671453046827"/>
 </a>
 
