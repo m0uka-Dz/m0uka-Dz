@@ -27,4 +27,8 @@
 <a href="https://www.bugcrowd.com/mouka">
   <img width="45px" src="https://asset.brandfetch.io/id0N7jz8eS/idp8g-Gs8N.jpeg?updated=1671453046827"/>
 </a>
+
+<a href="https://www.bugcrowd.com/mouka">
+  <img width="45px" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg"/>
+</a>
 </div>
