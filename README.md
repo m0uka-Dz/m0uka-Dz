@@ -24,7 +24,7 @@
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/youtube.svg" />
 </a>
 
-<a href="https://t.me/lllll8">
+<a href="https://https://www.bugcrowd.com/mouka">
   <img width="45px" src="https://asset.brandfetch.io/id0N7jz8eS/idp8g-Gs8N.jpeg?updated=1671453046827"/>
 </a>
 
@@ -32,7 +32,7 @@
   <img width="45px" src="https://www.vectorlogo.zone/logos/hackerone/hackerone-icon.svg"/>
 </a>
 
-<a href="https://hackerone.com/mouka0x">
-  <img width="45px" src="https://cdn0.iconfinder.com/data/icons/social-flat-rounded-rects/512/telegram-512.png"/>
+<a href="https://t.me/lllll8">
+  <img width="45px" src="https://www.svgrepo.com/show/125420/telegram.svg"/>
 </a>
 </div>
