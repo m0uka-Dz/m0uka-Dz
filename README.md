@@ -4,7 +4,7 @@
 <p><samp>Security Researcher hunting on <a href="https://bugcrowd.com/mouka">Bugcrowd</a> and <a href="https://hackerone.com/mouka0x">HackerOne</a></samp></p>
 <br>
 
-<a href="https://twitter.com/mouka0x">
+<a href="https://twitter.com/m0uka_Dz">
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 
