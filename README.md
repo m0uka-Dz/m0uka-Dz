@@ -8,15 +8,15 @@
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/mouka/">
+<a href="https://www.linkedin.com/in/m0uka/">
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
 
-<a href="https://medium.com/@mouka">
+<a href="https://medium.com/@m0uka">
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
 
-<a href="https://discord.com/users/mouka0x">
+<a href="https://discord.com/users/m0uka_dz">
   <img width="45px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/discord.svg" />
 </a>
 
